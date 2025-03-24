@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppTeste</string>
+    <string name="Proxima_tela">Proxima</string>
+    <string name="Voltar">Voltar</string>
+</resources>
